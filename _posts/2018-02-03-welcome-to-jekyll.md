@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-02-03 10:22:16 -0300
 tags: ["example","welcome","jekyll","typing","özel-bitcoin-adresi"]
-published: false
+published: true
 comments: false
 script: [post.js]
 excerpted: |
