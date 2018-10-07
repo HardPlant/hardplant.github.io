@@ -25,7 +25,7 @@ website:
   # Config for Google Analytics.  Note: Must have Google Analytics Tracking ID.
   google:
     analytics:
-      id: # tracking id, e.g. "UA-000000-01"
+      id: UA-127120051-1 # tracking id, e.g. "UA-000000-01"
 # Sidebar
   sidebar:
     avatar: typing.svg
@@ -95,7 +95,7 @@ website:
     message: "Simplicity is fashionable."
 # User data
 userdata:
-  email: william.costa.canin@gmail.com # E.g: youremail@domain.com
+  email: abc7988se@gmail.com # E.g: youremail@domain.com
   twitter: # E.g: "@my_twitter"
   disqus:
     username: # E.g: myuser
@@ -106,7 +106,7 @@ userdata:
       - title: GitHub
         id: github
         icon: fa-github
-        url: https://github.com
+        url: https://github.com/hardplant
 
       - title: Twitter
         id: twitter
