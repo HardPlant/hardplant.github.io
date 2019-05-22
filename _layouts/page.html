@@ -1,25 +1,14 @@
 ---
 layout: default
 ---
+<article class="post">
 
-<!-- Include Data Base  -->
-{% include liquid/data %}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
 
-
-<div class="p-lg-4 layout_page">
-  <div class="container-fluid">
-
-    <div class="layout_page__header">
-      <div class="row">
-        <h1 class="font-weight-bold layout_page__header-title">{{ page.title }}</h1>
-      </div>
-    </div>
-
-    <div class="layout_page__content">
-      <div class="row d-block">
-        {{ content }}
-      </div>
-    </div>
-
+  <div class="post-content">
+    {{ content }}
   </div>
-</div>
+
+</article>
