@@ -6,16 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Millikyl
-email: contact@fareez.info
+title: HardPlant 개발블로그
+email: abc7988se@naver.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  QA & 자동화 방법, 개발 회고 등을 적은 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-twitter_username: fareez_ahamed
-github_username:  fareez-ahamed
+url: "https://hardplant.github.io" # the base hostname & protocol for your site
+twitter_username: abc79888se
+github_username:  HardPlant
 
 # Build settings
 markdown: kramdown
